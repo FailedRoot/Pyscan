@@ -9,11 +9,11 @@ _  .___/_\__, / /____/ \___/ \__,_/ /_/ /_/
 
 # Pyscan
 Pyscan - A fast malware scanner using ShellScannerPatterns.
-
 ==
 
 ### Version
-* 1.12
+
+* 1.13 modifiqued by  FailRoot
 
 ### Supported Platforms
 
